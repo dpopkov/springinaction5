@@ -7,6 +7,10 @@
     * Domain classes
     * Controller class
     * View page
+* 2.2 - Processing form submission
+    * Order class
+    * Order Controller
+    * Order Form
 
 ## 1 - Getting started
 * Create initial project structure using Spring Initializr.

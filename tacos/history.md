@@ -8,3 +8,5 @@ History
 | 2.1 Displaying information                | Ingredient, Taco              | pom.xml |
 |                                           | DesignTacoController          |  |
 |                                           | design.html, styles.css       |  |
+| 2.2 Processing form submission            | Order, OrderController        | DesignTacoController   |
+|                                           | orderForm.html                | Taco                   |
