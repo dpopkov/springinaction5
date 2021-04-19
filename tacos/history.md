@@ -10,3 +10,6 @@ History
 |                                           | design.html, styles.css       |  |
 | 2.2 Processing form submission            | Order, OrderController        | DesignTacoController   |
 |                                           | orderForm.html                | Taco                   |
+| 2.3 - Validating form input               |                               | Order, Taco            |
+|                                           |                               | DesignTacoController, OrderController |
+|                                           |                               | design.html, orderForm.html           |

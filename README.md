@@ -11,6 +11,10 @@
     * Order class
     * Order Controller
     * Order Form
+* 2.3 - Validating form input
+    * Declare Validation Rules
+    * Perform Validation at form binding
+    * Display Validation errors
 
 ## 1 - Getting started
 * Create initial project structure using Spring Initializr.
