@@ -15,6 +15,7 @@
     * Declare Validation Rules
     * Perform Validation at form binding
     * Display Validation errors
+* 2.4 - Working with view controllers
 
 ## 1 - Getting started
 * Create initial project structure using Spring Initializr.

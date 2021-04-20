@@ -13,3 +13,4 @@ History
 | 2.3 - Validating form input               |                               | Order, Taco            |
 |                                           |                               | DesignTacoController, OrderController |
 |                                           |                               | design.html, orderForm.html           |
+| 2.4 - Working with view controllers       | WebConfig                     | HomeController (delete)               |
